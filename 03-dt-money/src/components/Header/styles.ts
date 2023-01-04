@@ -13,7 +13,7 @@ export const HeaderContent = styled.div`
 
   display: flex;
   justify-content: space-between;
-  align-itens: center;
+  align-items: center;
 `;
 
 export const NewTransactionButton = styled.button`
