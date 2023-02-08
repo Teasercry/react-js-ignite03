@@ -15,6 +15,30 @@
         "category": "Alimentação",
         "price": 50,
         "createdAt": "2022-07-29T19:30:44.505Z"
+      },
+      {
+        "id": 3,
+        "description": "Nike Air",
+        "type": "outcome",
+        "category": "Sapato",
+        "price": 2500,
+        "createdAt": "2022-07-29T19:30:44.505Z"
+      },
+      {
+        "id": 4,
+        "description": "Remedios",
+        "type": "outcome",
+        "category": "Saúde",
+        "price": 250,
+        "createdAt": "2022-07-29T19:30:44.505Z"
+      },
+      {
+        "id": 5,
+        "description": "Site V2",
+        "type": "income",
+        "category": "FreeLancer",
+        "price": 1500,
+        "createdAt": "2022-07-29T19:30:44.505Z"
       }
     ]
   }
