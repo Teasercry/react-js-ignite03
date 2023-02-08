@@ -1,44 +1,68 @@
 {
-    "transactions": [
-      {
-        "id": 1,
-        "description": "Desenvolvimento de site",
-        "type": "income",
-        "category": "Venda",
-        "price": 14000,
-        "createdAt": "2022-07-29T19:36:44.505Z"
-      },
-      {
-        "id": 2,
-        "description": "Hambúrguer",
-        "type": "outcome",
-        "category": "Alimentação",
-        "price": 50,
-        "createdAt": "2022-07-29T19:30:44.505Z"
-      },
-      {
-        "id": 3,
-        "description": "Nike Air",
-        "type": "outcome",
-        "category": "Sapato",
-        "price": 2500,
-        "createdAt": "2022-07-29T19:30:44.505Z"
-      },
-      {
-        "id": 4,
-        "description": "Remedios",
-        "type": "outcome",
-        "category": "Saúde",
-        "price": 250,
-        "createdAt": "2022-07-29T19:30:44.505Z"
-      },
-      {
-        "id": 5,
-        "description": "Site V2",
-        "type": "income",
-        "category": "FreeLancer",
-        "price": 1500,
-        "createdAt": "2022-07-29T19:30:44.505Z"
-      }
-    ]
-  }
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Nike Air",
+      "type": "outcome",
+      "category": "Sapato",
+      "price": 2500,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": 4,
+      "description": "Remedios",
+      "type": "outcome",
+      "category": "Saúde",
+      "price": 250,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": 5,
+      "description": "Site V2",
+      "type": "income",
+      "category": "FreeLancer",
+      "price": 1500,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "description": "Celular",
+      "price": 3500,
+      "category": "Outros",
+      "type": "outcome",
+      "createdAt": "2023-02-08T02:20:12.517Z",
+      "id": 6
+    },
+    {
+      "description": "Pastel",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-08T02:45:49.003Z",
+      "id": 7
+    },
+    {
+      "description": "Açaí",
+      "price": 25,
+      "category": "Sobremesa",
+      "type": "outcome",
+      "createdAt": "2023-02-08T02:46:17.224Z",
+      "id": 8
+    }
+  ]
+}
