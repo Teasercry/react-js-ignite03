@@ -1,5 +1,5 @@
-import { CaretLeft, CaretRight } from "phosphor-react";
-import { NavPagination, NumberPagination, PaginationContainer } from "./styles";
+import { CaretLeft, CaretRight } from 'phosphor-react'
+import { NavPagination, NumberPagination, PaginationContainer } from './styles'
 
 export function Pagination() {
   return (
@@ -14,5 +14,5 @@ export function Pagination() {
         <CaretRight />
       </NavPagination>
     </PaginationContainer>
-  );
+  )
 }
